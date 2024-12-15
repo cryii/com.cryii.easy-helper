@@ -1,0 +1,15 @@
+{
+    "name": "com.cryii.easy-helper",
+    "displayName": "CRI-Easy Helper",
+    "version": "1.0.0",
+    "description": "com.cryii.easy-helper",
+    "unity": "2022.3",
+    "keywords": [
+        "Easy Helper"
+    ],
+    "author": {
+        "name": "cryii",
+        "email": "icryingcat@gmail.com"
+    },
+    "license": "MIT"
+}
